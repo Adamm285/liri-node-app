@@ -78,6 +78,9 @@ switch (returned) {
     case "do-what-it-says":
         doWhatItSays()
         break
+    default:
+        console.log("err")
+    break
 }
 }
 check()
