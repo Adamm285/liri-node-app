@@ -1,0 +1,20 @@
+Venue: Singapore Indoor Stadium
+Location: Singapore
+Date: 03/08/2020 07:00 pm
+=======================Venue: Singapore Indoor Stadium
+Location: Singapore
+Date: 03/08/2020 07:00 pm
+=======================
+Venue: The Forum
+Location: Los AngelesCA
+Date: 01/18/2020 07:30 pm
+=======================
+Title: Batman
+Year: 1989
+Rating 1: 7.5
+Rating 2: 72%
+Film Location: USA, UK
+Lang.: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+=======================
