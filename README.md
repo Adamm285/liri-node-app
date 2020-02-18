@@ -1,2 +1,2 @@
 # liri-node-app
-![start](./capture.png)
+![start](./capture.PNG)
